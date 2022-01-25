@@ -13,11 +13,11 @@ Kök=3'tür
 9 değerini algoritma 8'in sağına yerleştirir.   
 4 değerini algoritma 5'ün sağına yerleştirir.   
 Son olarak 2 değerini algoritma 1'in sağına yerleştirir.   
-              3
-         /        \
-        1           7
-      /   \       /   \
-     0     2     5     8
-               /   \     \
-              4     6     9
+              3  
+         /        \  
+        1           7  
+      /   \       /   \  
+     0     2     5     8  
+               /   \     \  
+              4     6     9  
 
